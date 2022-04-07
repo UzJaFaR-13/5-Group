@@ -5,6 +5,15 @@
     user-select: none;
     list-style: none;
     text-decoration: none;
+    transition: all .6s;
+}
+
+a {
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
 }
 
 .contaner {
@@ -58,6 +67,7 @@ ul li {
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #EDEDED;
+    cursor: pointer;
 }
 
 .block1 {
