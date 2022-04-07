@@ -52,7 +52,7 @@ ul {
 .logo__png {
     height: 23px;
     width: 19px;
-    background-image: url(/imgs/logo.png);
+    background-image: url(../imgs/logo.png);
     border: none;
 }
 
@@ -72,7 +72,7 @@ ul li {
 
 .block1 {
     height: 497px;
-    background: url(/imgs/block1.png);
+    background: url(../imgs/block1.png);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -151,7 +151,7 @@ ul li {
 }
 
 .block3 {
-    background: url(/imgs/block2.png);
+    background: url(../imgs/block2.png);
     height: 395px;
     background-position: center;
     background-size: cover;
